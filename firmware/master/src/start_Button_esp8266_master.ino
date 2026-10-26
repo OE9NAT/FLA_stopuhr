@@ -12,7 +12,7 @@ extern "C"
 // WLAN UND WEBSERVER
 // =====================================================
 
-ESP8266WebServer server(80);
+ESP8266ebServer server(80);
 
 const char* WIFI_SSID = "FLA-Timer";
 const char* WIFI_PASSWORD = "12345678";
