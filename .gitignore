@@ -1,0 +1,9 @@
+# PlatformIO
+.pio/
+.vscode/.browse.c_cpp.db*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
